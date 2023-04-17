@@ -7,10 +7,16 @@ Motivation: Current NFT standards, while pioneering, have limitations that hinde
 
 Specification:
 
-Cross-Chain Compatibility: ERC-X NFTs can be transferred and used across multiple blockchain ecosystems, enabling seamless asset movement and promoting interconnectedness between networks.
-Dynamic Properties: Unlike static NFTs, ERC-X tokens support attributes that change over time or based on specific conditions or events, enabling the creation of evolving, adaptive, and interactive digital assets.
-Composable NFTs: The standard supports NFTs composed of other NFTs or tokens, creating complex, hierarchical structures and enabling the creation of customizable and modular digital assets.
-Integrated Royalties: To promote fair value distribution, ERC-X includes built-in royalty mechanisms that ensure creators receive a percentage of secondary market sales.
+*Cross-Chain Compatibility: ERC-X NFTs can be transferred and used across multiple blockchain ecosystems, enabling seamless asset movement and promoting interconnectedness between networks.
+
+*Dynamic Properties: Unlike static NFTs, ERC-X tokens support attributes that change over time or based on specific conditions or events, enabling the creation of evolving, adaptive, and interactive digital assets.
+
+*Composable NFTs: The standard supports NFTs composed of other NFTs or tokens, creating complex, hierarchical structures and enabling the creation of customizable and modular digital assets.
+
+*Integrated Royalties: To promote fair value distribution, ERC-X includes built-in royalty mechanisms that ensure creators receive a percentage of secondary market sales.
 Programmable NFTs: ERC-X incorporates smart contract functionality, enabling programmable NFTs with customizable logic and behaviors, facilitating the development of advanced applications and use cases.
-Enhanced Metadata and Storage: The standard provides an improved metadata structure and support for decentralized storage solutions, ensuring NFT metadata and associated content remain accessible and secure.
+
+*Enhanced Metadata and Storage: The standard provides an improved metadata structure and support for decentralized storage solutions, ensuring NFT metadata and associated content remain accessible and secure.
+
+
 Conclusion: The ERC-X standard offers a comprehensive and innovative solution to address the limitations of existing NFT standards. By promoting interoperability, enabling dynamic and programmable properties, and supporting creator royalties, ERC-X has the potential to revolutionize the NFT space, unlocking new use cases and fostering a more vibrant and interconnected digital asset ecosystem.
